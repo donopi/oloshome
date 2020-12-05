@@ -18,9 +18,5 @@ Thumbs.db
 # Temporal dev files
 node_modules/
 
-# App config
-.env
-.env-local
-
 # App related
 robots.txt
